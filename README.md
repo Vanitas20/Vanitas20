@@ -2,9 +2,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 C++ student in NURE (Kharkiv National University of Radio Electronics)
-- 💡 Interested in Qt, Vulkan, game engines, ai
-- 🛠️ Currently working on: **Password Manager (Qt + C++)**, **LovelyEngine (Lua)**  
-- 🌱 Learning: **low-level graphics**, **ai**
+- 💡 Interested in Qt, Vulkan, game engines, ai 
+- 🌱 Learning: **low-level graphics**, **ai**, **creating application**
 
 <h3 align="center">🚀 Tech Stack</h3>
 <p align="center">
