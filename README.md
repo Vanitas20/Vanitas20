@@ -17,5 +17,4 @@
 <p align="center">
   <a href="https://t.me/jaros1288"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discordapp.com/users/Jar16f#8139"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:abilik48@gproton.me"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
