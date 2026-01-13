@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20I'm%20Jaroslaw%20👋&animation=twinkling&fontAlign=50&textBg=false&reversal=false&section=header&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20I'm%20Vanitas%20👋&animation=twinkling&fontAlign=50&textBg=false&reversal=false&section=header&fontSize=65)
 
 ### 👨‍💻 About Me
 - 🎓 C++ student in NURE (Kharkiv National University of Radio Electronics)
